@@ -1,6 +1,6 @@
 Let's go over some common git commands!
 ---------------------------------------
-My Version
+My Version 2.0
 
 1. Find a repo you're interested in having your own version of.
 
